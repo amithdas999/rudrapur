@@ -1,0 +1,1264 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1719647125837,2050,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,3,3,https://performancetestingpractice.com/index.php,2050,0,1188
+1719647126691,1232,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,3,3,https://performancetestingpractice.com/index.php,1232,0,523
+1719647127926,199,/login.php,200,OK,Thread Group 1-2,text,true,,2939,826,3,3,https://performancetestingpractice.com/login.php,199,0,0
+1719647127900,231,/login.php,200,OK,Thread Group 1-1,text,true,,2938,826,3,3,https://performancetestingpractice.com/login.php,231,0,0
+1719647127680,665,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,3,3,https://performancetestingpractice.com/index.php,665,0,433
+1719647128349,212,/login.php,200,OK,Thread Group 1-3,text,true,,2939,826,3,3,https://performancetestingpractice.com/login.php,211,0,0
+1719647128139,698,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2029,4,4,https://performancetestingpractice.com/dashboard.php,381,0,0
+1719647128139,381,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1102,4,4,https://performancetestingpractice.com/login.php,381,0,0
+1719647128522,315,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,4,4,https://performancetestingpractice.com/dashboard.php,315,0,0
+1719647128140,711,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2028,4,4,https://performancetestingpractice.com/dashboard.php,384,0,0
+1719647128140,384,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1101,4,4,https://performancetestingpractice.com/login.php,384,0,0
+1719647128525,326,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,4,4,https://performancetestingpractice.com/dashboard.php,326,0,0
+1719647128841,282,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,4,4,https://performancetestingpractice.com/dashboard.php,282,0,0
+1719647128855,405,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,4,4,https://performancetestingpractice.com/dashboard.php,404,0,0
+1719647128563,702,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15515,2029,4,4,https://performancetestingpractice.com/dashboard.php,339,0,0
+1719647128563,339,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10616,1102,4,4,https://performancetestingpractice.com/login.php,339,0,0
+1719647128902,363,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,4,4,https://performancetestingpractice.com/dashboard.php,363,0,0
+1719647129125,242,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,4,4,https://performancetestingpractice.com/senerio.php,242,0,0
+1719647128676,809,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,4,4,https://performancetestingpractice.com/index.php,809,0,594
+1719647129261,225,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,4,4,https://performancetestingpractice.com/senerio.php,225,0,0
+1719647129270,216,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,4,4,https://performancetestingpractice.com/dashboard.php,216,0,0
+1719647129490,289,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,5,5,https://performancetestingpractice.com/senerio.php,288,0,0
+1719647129487,295,/login.php,200,OK,Thread Group 1-4,text,true,,2943,826,5,5,https://performancetestingpractice.com/login.php,295,0,0
+1719647129369,574,/logout.php,200,OK,Thread Group 1-2,text,true,,3426,1657,5,5,https://performancetestingpractice.com/login.php,261,0,0
+1719647129369,261,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,5,5,https://performancetestingpractice.com/logout.php,261,0,0
+1719647129631,312,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2940,828,5,5,https://performancetestingpractice.com/login.php,312,0,0
+1719647129488,590,/logout.php,200,OK,Thread Group 1-1,text,true,,3426,1657,5,5,https://performancetestingpractice.com/login.php,289,0,0
+1719647129488,289,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,5,5,https://performancetestingpractice.com/logout.php,289,0,0
+1719647129777,301,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2940,828,5,5,https://performancetestingpractice.com/login.php,301,0,0
+1719647129953,265,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,5,5,https://performancetestingpractice.com/index.php,265,0,0
+1719647129781,526,/logout.php,200,OK,Thread Group 1-3,text,true,,3427,1657,5,5,https://performancetestingpractice.com/login.php,301,0,0
+1719647129781,301,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,5,5,https://performancetestingpractice.com/logout.php,301,0,0
+1719647130082,225,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2941,828,5,5,https://performancetestingpractice.com/login.php,224,0,0
+1719647130084,233,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,5,5,https://performancetestingpractice.com/index.php,232,0,0
+1719647129788,585,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2031,5,5,https://performancetestingpractice.com/dashboard.php,348,0,0
+1719647129788,348,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1104,5,5,https://performancetestingpractice.com/login.php,348,0,0
+1719647130137,236,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,5,5,https://performancetestingpractice.com/dashboard.php,236,0,0
+1719647129675,776,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,5,5,https://performancetestingpractice.com/index.php,775,0,527
+1719647130220,354,/login.php,200,OK,Thread Group 1-2,text,true,,2943,826,5,5,https://performancetestingpractice.com/login.php,354,0,0
+1719647130308,404,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,6,6,https://performancetestingpractice.com/index.php,404,0,0
+1719647130318,426,/login.php,200,OK,Thread Group 1-1,text,true,,2943,826,6,6,https://performancetestingpractice.com/login.php,426,0,0
+1719647130376,383,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,6,6,https://performancetestingpractice.com/dashboard.php,383,0,0
+1719647130452,658,/login.php,200,OK,Thread Group 1-5,text,true,,2939,826,6,6,https://performancetestingpractice.com/login.php,658,0,0
+1719647130719,604,/login.php,200,OK,Thread Group 1-3,text,true,,2938,826,6,6,https://performancetestingpractice.com/login.php,603,0,0
+1719647130763,603,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,6,6,https://performancetestingpractice.com/senerio.php,603,0,0
+1719647130576,997,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15515,2031,6,6,https://performancetestingpractice.com/dashboard.php,775,0,0
+1719647130576,775,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10616,1104,6,6,https://performancetestingpractice.com/login.php,775,0,0
+1719647131350,223,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,6,6,https://performancetestingpractice.com/dashboard.php,223,0,0
+1719647130746,866,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2029,6,6,https://performancetestingpractice.com/dashboard.php,640,0,0
+1719647130746,640,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1102,6,6,https://performancetestingpractice.com/login.php,640,0,0
+1719647131385,227,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,6,6,https://performancetestingpractice.com/dashboard.php,227,0,0
+1719647131112,514,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15515,2034,6,6,https://performancetestingpractice.com/dashboard.php,305,0,0
+1719647131112,305,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10616,1107,6,6,https://performancetestingpractice.com/login.php,305,0,0
+1719647131418,208,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,6,6,https://performancetestingpractice.com/dashboard.php,207,0,0
+1719647130672,1034,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,7,7,https://performancetestingpractice.com/index.php,1034,0,834
+1719647131575,215,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,7,7,https://performancetestingpractice.com/dashboard.php,215,0,0
+1719647131366,448,/logout.php,200,OK,Thread Group 1-4,text,true,,3426,1657,7,7,https://performancetestingpractice.com/login.php,211,0,0
+1719647131366,211,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,7,7,https://performancetestingpractice.com/logout.php,211,0,0
+1719647131578,236,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2940,828,7,7,https://performancetestingpractice.com/login.php,236,0,0
+1719647131324,496,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2034,7,7,https://performancetestingpractice.com/dashboard.php,277,0,0
+1719647131324,277,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1107,7,7,https://performancetestingpractice.com/login.php,277,0,0
+1719647131601,219,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,7,7,https://performancetestingpractice.com/dashboard.php,218,0,0
+1719647131627,194,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,7,7,https://performancetestingpractice.com/dashboard.php,194,0,0
+1719647131614,220,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,7,7,https://performancetestingpractice.com/dashboard.php,219,0,0
+1719647131706,208,/login.php,200,OK,Thread Group 1-6,text,true,,2942,826,7,7,https://performancetestingpractice.com/login.php,208,0,0
+1719647131824,209,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,7,7,https://performancetestingpractice.com/senerio.php,209,0,0
+1719647131793,251,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,7,7,https://performancetestingpractice.com/senerio.php,251,0,0
+1719647131823,237,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,7,7,https://performancetestingpractice.com/dashboard.php,237,0,0
+1719647131819,246,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,7,7,https://performancetestingpractice.com/index.php,245,0,0
+1719647131838,235,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,7,7,https://performancetestingpractice.com/senerio.php,235,0,0
+1719647132062,211,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,7,7,https://performancetestingpractice.com/senerio.php,210,0,0
+1719647132070,208,/login.php,200,OK,Thread Group 1-4,text,true,,2943,826,7,7,https://performancetestingpractice.com/login.php,208,0,0
+1719647131669,706,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,7,7,https://performancetestingpractice.com/index.php,706,0,458
+1719647131918,474,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2031,7,7,https://performancetestingpractice.com/dashboard.php,250,0,0
+1719647131918,250,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1104,7,7,https://performancetestingpractice.com/login.php,250,0,0
+1719647132170,222,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,7,7,https://performancetestingpractice.com/dashboard.php,220,0,0
+1719647132037,419,/logout.php,200,OK,Thread Group 1-5,text,true,,3426,1657,7,7,https://performancetestingpractice.com/login.php,214,0,0
+1719647132037,214,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,7,7,https://performancetestingpractice.com/logout.php,214,0,0
+1719647132252,204,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2940,828,7,7,https://performancetestingpractice.com/login.php,204,0,0
+1719647132048,419,/logout.php,200,OK,Thread Group 1-2,text,true,,3425,1657,7,7,https://performancetestingpractice.com/login.php,208,0,0
+1719647132048,208,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,7,7,https://performancetestingpractice.com/logout.php,208,0,0
+1719647132258,209,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2939,828,7,7,https://performancetestingpractice.com/login.php,208,0,0
+1719647132074,435,/logout.php,200,OK,Thread Group 1-1,text,true,,3426,1657,7,7,https://performancetestingpractice.com/login.php,210,0,0
+1719647132074,210,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,7,7,https://performancetestingpractice.com/logout.php,210,0,0
+1719647132285,224,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2940,828,7,7,https://performancetestingpractice.com/login.php,224,0,0
+1719647132397,201,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,7,7,https://performancetestingpractice.com/dashboard.php,201,0,0
+1719647132378,242,/login.php,200,OK,Thread Group 1-7,text,true,,2941,826,7,7,https://performancetestingpractice.com/login.php,242,0,0
+1719647132463,224,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,8,8,https://performancetestingpractice.com/index.php,224,0,0
+1719647132276,419,/logout.php,200,OK,Thread Group 1-3,text,true,,3427,1657,8,8,https://performancetestingpractice.com/login.php,197,0,0
+1719647132276,197,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,8,8,https://performancetestingpractice.com/logout.php,197,0,0
+1719647132474,221,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2941,828,8,8,https://performancetestingpractice.com/login.php,221,0,0
+1719647132514,232,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,8,8,https://performancetestingpractice.com/index.php,232,0,0
+1719647132281,471,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2035,8,8,https://performancetestingpractice.com/dashboard.php,268,0,0
+1719647132281,269,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1108,8,8,https://performancetestingpractice.com/login.php,268,0,0
+1719647132550,202,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,8,8,https://performancetestingpractice.com/dashboard.php,202,0,0
+1719647132601,204,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,8,8,https://performancetestingpractice.com/senerio.php,203,0,0
+1719647132690,219,/login.php,200,OK,Thread Group 1-5,text,true,,2939,826,8,8,https://performancetestingpractice.com/login.php,219,0,0
+1719647132699,222,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,8,8,https://performancetestingpractice.com/index.php,221,0,0
+1719647132749,216,/login.php,200,OK,Thread Group 1-1,text,true,,2939,826,8,8,https://performancetestingpractice.com/login.php,216,0,0
+1719647132757,212,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,8,8,https://performancetestingpractice.com/dashboard.php,212,0,0
+1719647132923,206,/login.php,200,OK,Thread Group 1-3,text,true,,2939,826,8,8,https://performancetestingpractice.com/login.php,206,0,0
+1719647132623,509,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15515,2037,8,8,https://performancetestingpractice.com/dashboard.php,283,0,0
+1719647132623,283,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10616,1110,8,8,https://performancetestingpractice.com/login.php,283,0,0
+1719647132907,225,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,8,8,https://performancetestingpractice.com/dashboard.php,225,0,0
+1719647132970,214,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,8,8,https://performancetestingpractice.com/senerio.php,213,0,0
+1719647132471,723,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,8,8,https://performancetestingpractice.com/index.php,722,0,0
+1719647132808,407,/logout.php,200,OK,Thread Group 1-6,text,true,,3427,1657,8,8,https://performancetestingpractice.com/login.php,204,0,0
+1719647132808,204,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,8,8,https://performancetestingpractice.com/logout.php,204,0,0
+1719647133013,202,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2941,828,8,8,https://performancetestingpractice.com/login.php,201,0,0
+1719647132669,625,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,8,8,https://performancetestingpractice.com/index.php,625,0,408
+1719647133134,224,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,8,8,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647132912,460,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15516,2033,8,8,https://performancetestingpractice.com/dashboard.php,251,0,0
+1719647132912,251,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10617,1106,8,8,https://performancetestingpractice.com/login.php,251,0,0
+1719647133164,208,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,8,8,https://performancetestingpractice.com/dashboard.php,208,0,0
+1719647133195,208,/login.php,200,OK,Thread Group 1-2,text,true,,2937,826,8,8,https://performancetestingpractice.com/login.php,208,0,0
+1719647133218,215,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,8,8,https://performancetestingpractice.com/index.php,215,0,0
+1719647132967,492,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2031,8,8,https://performancetestingpractice.com/dashboard.php,271,0,0
+1719647132967,271,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1104,8,8,https://performancetestingpractice.com/login.php,271,0,0
+1719647133239,220,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,8,8,https://performancetestingpractice.com/dashboard.php,220,0,0
+1719647133296,209,/login.php,200,OK,Thread Group 1-8,text,true,,2936,826,8,8,https://performancetestingpractice.com/login.php,209,0,0
+1719647133377,204,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,8,8,https://performancetestingpractice.com/dashboard.php,204,0,0
+1719647133186,406,/logout.php,200,OK,Thread Group 1-4,text,true,,3426,1657,8,8,https://performancetestingpractice.com/login.php,198,0,0
+1719647133186,198,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,8,8,https://performancetestingpractice.com/logout.php,198,0,0
+1719647133385,207,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2940,828,8,8,https://performancetestingpractice.com/login.php,207,0,0
+1719647133361,236,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,8,8,https://performancetestingpractice.com/senerio.php,236,0,0
+1719647133130,484,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15515,2033,8,8,https://performancetestingpractice.com/dashboard.php,269,0,0
+1719647133130,269,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10616,1106,8,8,https://performancetestingpractice.com/login.php,269,0,0
+1719647133400,214,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,8,8,https://performancetestingpractice.com/dashboard.php,214,0,0
+1719647133436,215,/login.php,200,OK,Thread Group 1-6,text,true,,2941,826,8,8,https://performancetestingpractice.com/login.php,214,0,0
+1719647133463,219,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,9,9,https://performancetestingpractice.com/dashboard.php,218,0,0
+1719647133583,195,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,9,9,https://performancetestingpractice.com/senerio.php,195,0,0
+1719647133596,213,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,9,9,https://performancetestingpractice.com/index.php,213,0,0
+1719647133618,204,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,9,9,https://performancetestingpractice.com/dashboard.php,204,0,0
+1719647133405,484,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2029,9,9,https://performancetestingpractice.com/dashboard.php,255,0,0
+1719647133405,255,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1102,9,9,https://performancetestingpractice.com/login.php,255,0,0
+1719647133660,229,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,9,9,https://performancetestingpractice.com/dashboard.php,229,0,0
+1719647133684,222,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,9,9,https://performancetestingpractice.com/senerio.php,222,0,0
+1719647133511,467,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2031,9,9,https://performancetestingpractice.com/dashboard.php,259,0,0
+1719647133511,259,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1104,9,9,https://performancetestingpractice.com/login.php,259,0,0
+1719647133771,207,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,9,9,https://performancetestingpractice.com/dashboard.php,207,0,0
+1719647133811,242,/login.php,200,OK,Thread Group 1-4,text,true,,2939,826,9,9,https://performancetestingpractice.com/login.php,242,0,0
+1719647133824,237,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,9,9,https://performancetestingpractice.com/senerio.php,237,0,0
+1719647133599,471,/logout.php,200,OK,Thread Group 1-7,text,true,,3428,1657,9,9,https://performancetestingpractice.com/login.php,224,0,0
+1719647133599,224,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,9,9,https://performancetestingpractice.com/logout.php,224,0,0
+1719647133824,246,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2942,828,9,9,https://performancetestingpractice.com/login.php,246,0,0
+1719647133895,209,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,9,9,https://performancetestingpractice.com/dashboard.php,209,0,0
+1719647133653,456,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2033,9,9,https://performancetestingpractice.com/dashboard.php,263,0,0
+1719647133653,263,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1106,9,9,https://performancetestingpractice.com/login.php,263,0,0
+1719647133917,192,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,9,9,https://performancetestingpractice.com/dashboard.php,192,0,0
+1719647133983,208,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,9,9,https://performancetestingpractice.com/dashboard.php,207,0,0
+1719647133793,463,/logout.php,200,OK,Thread Group 1-5,text,true,,3426,1657,9,9,https://performancetestingpractice.com/login.php,223,0,0
+1719647133793,223,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,9,9,https://performancetestingpractice.com/logout.php,223,0,0
+1719647134017,239,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2940,828,9,9,https://performancetestingpractice.com/login.php,238,0,0
+1719647134073,214,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,9,9,https://performancetestingpractice.com/index.php,213,0,0
+1719647133667,625,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,9,9,https://performancetestingpractice.com/index.php,624,0,421
+1719647134113,195,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,9,9,https://performancetestingpractice.com/dashboard.php,195,0,0
+1719647134107,204,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,9,9,https://performancetestingpractice.com/senerio.php,204,0,0
+1719647133908,427,/logout.php,200,OK,Thread Group 1-1,text,true,,3425,1657,9,9,https://performancetestingpractice.com/login.php,214,0,0
+1719647133908,214,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,9,9,https://performancetestingpractice.com/logout.php,214,0,0
+1719647134122,213,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2939,828,9,9,https://performancetestingpractice.com/login.php,213,0,0
+1719647134193,227,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,9,9,https://performancetestingpractice.com/senerio.php,227,0,0
+1719647134268,220,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,9,9,https://performancetestingpractice.com/index.php,220,0,0
+1719647134062,430,/logout.php,200,OK,Thread Group 1-3,text,true,,3425,1657,9,9,https://performancetestingpractice.com/login.php,213,0,0
+1719647134062,213,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,9,9,https://performancetestingpractice.com/logout.php,213,0,0
+1719647134276,216,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2939,828,9,9,https://performancetestingpractice.com/login.php,215,0,0
+1719647134294,213,/login.php,200,OK,Thread Group 1-9,text,true,,2940,826,9,9,https://performancetestingpractice.com/login.php,213,0,0
+1719647134289,218,/login.php,200,OK,Thread Group 1-7,text,true,,2938,826,9,9,https://performancetestingpractice.com/login.php,218,0,0
+1719647134310,209,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,9,9,https://performancetestingpractice.com/senerio.php,208,0,0
+1719647134340,213,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,9,9,https://performancetestingpractice.com/index.php,212,0,0
+1719647134057,514,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2033,9,9,https://performancetestingpractice.com/dashboard.php,289,0,0
+1719647134057,289,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1106,9,9,https://performancetestingpractice.com/login.php,289,0,0
+1719647134347,224,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,9,9,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647134491,216,/login.php,200,OK,Thread Group 1-5,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,216,0,0
+1719647134497,225,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,224,0,0
+1719647134312,425,/logout.php,200,OK,Thread Group 1-2,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,209,0,0
+1719647134312,209,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,209,0,0
+1719647134522,215,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,214,0,0
+1719647134555,232,/login.php,200,OK,Thread Group 1-1,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647134575,217,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,217,0,0
+1719647134422,413,/logout.php,200,OK,Thread Group 1-8,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,203,0,0
+1719647134422,203,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,203,0,0
+1719647134627,208,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,208,0,0
+1719647134520,399,/logout.php,200,OK,Thread Group 1-6,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,202,0,0
+1719647134520,202,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,202,0,0
+1719647134722,197,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,197,0,0
+1719647134724,210,/login.php,200,OK,Thread Group 1-3,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,209,0,0
+1719647134757,230,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,229,0,0
+1719647134509,489,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,261,0,0
+1719647134509,261,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,261,0,0
+1719647134770,228,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,227,0,0
+1719647134794,209,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,208,0,0
+1719647134512,497,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15515,2037,10,10,https://performancetestingpractice.com/dashboard.php,265,0,0
+1719647134512,265,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10616,1110,10,10,https://performancetestingpractice.com/login.php,265,0,0
+1719647134777,232,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647134840,219,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,219,0,0
+1719647134923,203,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,202,0,0
+1719647134710,490,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15515,2031,10,10,https://performancetestingpractice.com/dashboard.php,259,0,0
+1719647134710,261,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10616,1104,10,10,https://performancetestingpractice.com/login.php,259,0,0
+1719647134972,228,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,228,0,0
+1719647135001,222,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,222,0,0
+1719647134990,233,/login.php,200,OK,Thread Group 1-2,text,true,,2937,826,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647135012,222,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,221,0,0
+1719647134675,601,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,601,0,387
+1719647135062,217,/login.php,200,OK,Thread Group 1-8,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647134790,493,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,264,0,0
+1719647134790,264,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,264,0,0
+1719647135055,228,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,228,0,0
+1719647135127,204,/login.php,200,OK,Thread Group 1-6,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,203,0,0
+1719647135221,214,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,213,0,0
+1719647135226,223,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,223,0,0
+1719647135004,449,/logout.php,200,OK,Thread Group 1-4,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647135004,224,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,224,0,0
+1719647135229,224,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647134938,522,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15514,2028,10,10,https://performancetestingpractice.com/dashboard.php,288,0,0
+1719647134938,288,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10615,1101,10,10,https://performancetestingpractice.com/login.php,288,0,0
+1719647135227,233,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,232,0,0
+1719647135238,231,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,231,0,0
+1719647135279,210,/login.php,200,OK,Thread Group 1-10,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,210,0,0
+1719647135287,226,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647135437,230,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,230,0,0
+1719647135465,227,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647135458,236,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,234,0,0
+1719647135232,483,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,257,0,0
+1719647135232,257,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,257,0,0
+1719647135489,226,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,225,0,0
+1719647135515,231,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,231,0,0
+1719647135282,494,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,278,0,0
+1719647135282,278,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,278,0,0
+1719647135561,215,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,214,0,0
+1719647135333,463,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15515,2039,10,10,https://performancetestingpractice.com/dashboard.php,258,0,0
+1719647135333,258,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10616,1112,10,10,https://performancetestingpractice.com/login.php,258,0,0
+1719647135592,204,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,203,0,0
+1719647135694,222,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,222,0,0
+1719647135696,233,/login.php,200,OK,Thread Group 1-4,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647135451,480,/logout.php,200,OK,Thread Group 1-9,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,246,0,0
+1719647135451,246,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,246,0,0
+1719647135698,233,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647135719,211,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,210,0,0
+1719647135471,464,/logout.php,200,OK,Thread Group 1-7,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,217,0,0
+1719647135471,218,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,217,0,0
+1719647135689,246,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,246,0,0
+1719647135492,491,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,280,0,0
+1719647135492,280,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,280,0,0
+1719647135773,210,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,209,0,0
+1719647135780,212,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,212,0,0
+1719647135800,198,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,198,0,0
+1719647135670,445,/logout.php,200,OK,Thread Group 1-5,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647135670,222,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,222,0,0
+1719647135894,221,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647135942,208,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,208,0,0
+1719647135941,213,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,212,0,0
+1719647135950,224,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,224,0,0
+1719647136000,203,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,203,0,0
+1719647135987,219,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,219,0,0
+1719647135993,217,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,216,0,0
+1719647135748,462,/logout.php,200,OK,Thread Group 1-1,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,227,0,0
+1719647135748,227,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,227,0,0
+1719647135976,234,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,234,0,0
+1719647136122,215,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,215,0,0
+1719647135918,424,/logout.php,200,OK,Thread Group 1-3,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647135918,215,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,215,0,0
+1719647136134,208,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,208,0,0
+1719647136152,202,/login.php,200,OK,Thread Group 1-9,text,true,,2936,826,10,10,https://performancetestingpractice.com/login.php,198,0,0
+1719647136175,239,/login.php,200,OK,Thread Group 1-7,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647135932,490,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2030,10,10,https://performancetestingpractice.com/dashboard.php,270,0,0
+1719647135932,270,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1103,10,10,https://performancetestingpractice.com/login.php,270,0,0
+1719647136202,220,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,220,0,0
+1719647136208,220,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,220,0,0
+1719647136215,228,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,227,0,0
+1719647136339,210,/login.php,200,OK,Thread Group 1-5,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,210,0,0
+1719647136346,227,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,226,0,0
+1719647136204,403,/logout.php,200,OK,Thread Group 1-6,text,true,,3428,1657,10,10,https://performancetestingpractice.com/login.php,207,0,0
+1719647136204,208,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,207,0,0
+1719647136412,195,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2942,828,10,10,https://performancetestingpractice.com/login.php,195,0,0
+1719647136155,455,/logout.php,200,OK,Thread Group 1-2,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647136155,233,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,233,0,0
+1719647136388,222,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647136427,204,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,203,0,0
+1719647136211,427,/logout.php,200,OK,Thread Group 1-8,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,219,0,0
+1719647136211,220,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,219,0,0
+1719647136431,207,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,207,0,0
+1719647136445,229,/login.php,200,OK,Thread Group 1-1,text,true,,2937,826,10,10,https://performancetestingpractice.com/login.php,228,0,0
+1719647136574,211,/login.php,200,OK,Thread Group 1-3,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,211,0,0
+1719647136613,204,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,204,0,0
+1719647136430,396,/logout.php,200,OK,Thread Group 1-10,text,true,,3428,1657,10,10,https://performancetestingpractice.com/login.php,193,0,0
+1719647136430,193,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,193,0,0
+1719647136624,202,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2942,828,10,10,https://performancetestingpractice.com/login.php,202,0,0
+1719647136641,191,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,191,0,0
+1719647136632,204,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,204,0,0
+1719647136381,497,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2030,10,10,https://performancetestingpractice.com/dashboard.php,275,0,0
+1719647136381,275,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1103,10,10,https://performancetestingpractice.com/login.php,275,0,0
+1719647136657,221,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,221,0,0
+1719647136417,489,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,267,0,0
+1719647136417,267,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,267,0,0
+1719647136685,221,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,221,0,0
+1719647136819,204,/login.php,200,OK,Thread Group 1-6,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,204,0,0
+1719647136830,199,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,198,0,0
+1719647136834,205,/login.php,200,OK,Thread Group 1-8,text,true,,2943,826,10,10,https://performancetestingpractice.com/login.php,204,0,0
+1719647136882,226,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647136552,578,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,312,0,0
+1719647136552,312,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,312,0,0
+1719647136866,264,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,264,0,0
+1719647136909,240,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,239,0,0
+1719647136676,512,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,275,0,0
+1719647136676,275,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,275,0,0
+1719647136952,236,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,235,0,0
+1719647137031,208,/login.php,200,OK,Thread Group 1-10,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,208,0,0
+1719647136787,485,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,268,0,0
+1719647136787,268,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,268,0,0
+1719647137056,216,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,215,0,0
+1719647136838,445,/logout.php,200,OK,Thread Group 1-4,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,220,0,0
+1719647136838,220,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,220,0,0
+1719647137060,223,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,223,0,0
+1719647136616,716,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,716,0,0
+1719647137131,218,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,217,0,0
+1719647137137,218,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,217,0,0
+1719647137151,228,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,228,0,0
+1719647137211,236,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,236,0,0
+1719647137025,452,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15514,2035,10,10,https://performancetestingpractice.com/dashboard.php,245,0,0
+1719647137025,245,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10615,1108,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647137271,206,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,206,0,0
+1719647137275,220,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,219,0,0
+1719647137287,220,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,220,0,0
+1719647137041,475,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,268,0,0
+1719647137041,268,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,268,0,0
+1719647137310,206,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,206,0,0
+1719647137336,241,/login.php,200,OK,Thread Group 1-2,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,241,0,0
+1719647137356,225,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,225,0,0
+1719647137449,232,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,232,0,0
+1719647137480,211,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,210,0,0
+1719647137496,213,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,213,0,0
+1719647137241,480,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,270,0,0
+1719647137241,270,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,270,0,0
+1719647137511,210,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,210,0,0
+1719647137519,217,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,217,0,0
+1719647137509,227,/login.php,200,OK,Thread Group 1-4,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,227,0,0
+1719647137351,457,/logout.php,200,OK,Thread Group 1-9,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,228,0,0
+1719647137351,228,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,228,0,0
+1719647137582,226,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647137383,453,/logout.php,200,OK,Thread Group 1-7,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,205,0,0
+1719647137383,205,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,205,0,0
+1719647137588,248,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,248,0,0
+1719647137693,205,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,204,0,0
+1719647137725,214,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,214,0,0
+1719647137738,205,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,205,0,0
+1719647137582,459,/logout.php,200,OK,Thread Group 1-5,text,true,,3429,1657,10,10,https://performancetestingpractice.com/login.php,216,0,0
+1719647137582,216,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,216,0,0
+1719647137798,243,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2943,828,10,10,https://performancetestingpractice.com/login.php,242,0,0
+1719647137812,233,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,232,0,0
+1719647137579,516,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15514,2029,10,10,https://performancetestingpractice.com/dashboard.php,291,0,0
+1719647137579,291,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10615,1102,10,10,https://performancetestingpractice.com/login.php,291,0,0
+1719647137871,224,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,223,0,0
+1719647137858,245,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,244,0,0
+1719647137711,413,/logout.php,200,OK,Thread Group 1-3,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,200,0,0
+1719647137711,200,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,200,0,0
+1719647137911,213,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,213,0,0
+1719647137683,453,/logout.php,200,OK,Thread Group 1-1,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,223,0,0
+1719647137683,223,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,223,0,0
+1719647137909,227,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647137941,208,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,208,0,0
+1719647137738,490,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,270,0,0
+1719647137738,270,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,270,0,0
+1719647138008,220,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,219,0,0
+1719647138046,201,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,201,0,0
+1719647138047,222,/login.php,200,OK,Thread Group 1-9,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647137899,398,/logout.php,200,OK,Thread Group 1-6,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,203,0,0
+1719647137899,204,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,203,0,0
+1719647138103,194,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,194,0,0
+1719647138097,207,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,207,0,0
+1719647138104,222,/login.php,200,OK,Thread Group 1-7,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647138128,230,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,229,0,0
+1719647137945,421,/logout.php,200,OK,Thread Group 1-8,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,206,0,0
+1719647137945,206,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,206,0,0
+1719647138151,215,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647138139,239,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,238,0,0
+1719647138231,210,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,210,0,0
+1719647138249,199,/login.php,200,OK,Thread Group 1-5,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,199,0,0
+1719647138301,218,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,218,0,0
+1719647138306,226,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,226,0,0
+1719647138153,442,/logout.php,200,OK,Thread Group 1-10,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,204,0,0
+1719647138153,204,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,204,0,0
+1719647138364,231,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,231,0,0
+1719647138363,242,/login.php,200,OK,Thread Group 1-3,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,242,0,0
+1719647138372,237,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,237,0,0
+1719647138379,236,/login.php,200,OK,Thread Group 1-1,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647138442,232,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,232,0,0
+1719647138521,234,/login.php,200,OK,Thread Group 1-6,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647138272,487,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,253,0,0
+1719647138272,253,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,253,0,0
+1719647138525,234,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,234,0,0
+1719647138600,235,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,234,0,0
+1719647138614,224,/login.php,200,OK,Thread Group 1-8,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647138327,524,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15509,2033,10,10,https://performancetestingpractice.com/dashboard.php,300,0,0
+1719647138327,300,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10610,1106,10,10,https://performancetestingpractice.com/login.php,300,0,0
+1719647138627,224,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647138450,491,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,280,0,0
+1719647138450,281,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,280,0,0
+1719647138731,210,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,210,0,0
+1719647138534,460,/logout.php,200,OK,Thread Group 1-2,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,223,0,0
+1719647138534,224,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,223,0,0
+1719647138758,236,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647138763,236,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,236,0,0
+1719647138836,215,/login.php,200,OK,Thread Group 1-10,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647138854,230,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,230,0,0
+1719647138607,492,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2030,10,10,https://performancetestingpractice.com/dashboard.php,274,0,0
+1719647138607,274,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1103,10,10,https://performancetestingpractice.com/login.php,274,0,0
+1719647138881,218,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,217,0,0
+1719647138675,461,/logout.php,200,OK,Thread Group 1-4,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647138675,224,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,224,0,0
+1719647138900,236,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647138623,527,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2032,10,10,https://performancetestingpractice.com/dashboard.php,272,0,0
+1719647138623,272,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1105,10,10,https://performancetestingpractice.com/login.php,272,0,0
+1719647138896,254,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,254,0,0
+1719647138944,214,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,214,0,0
+1719647138997,224,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,223,0,0
+1719647138756,484,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,274,0,0
+1719647138756,274,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,274,0,0
+1719647139031,209,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,208,0,0
+1719647139018,231,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,231,0,0
+1719647139101,231,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647139087,263,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,263,0,0
+1719647138840,526,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,287,0,0
+1719647138840,287,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,287,0,0
+1719647139128,238,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,238,0,0
+1719647139161,215,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,215,0,0
+1719647139143,252,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,251,0,0
+1719647139154,252,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,251,0,0
+1719647139222,220,/login.php,200,OK,Thread Group 1-2,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,220,0,0
+1719647139244,226,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647139348,231,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,231,0,0
+1719647139370,242,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,242,0,0
+1719647139398,217,/login.php,200,OK,Thread Group 1-4,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,217,0,0
+1719647139053,561,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,309,0,0
+1719647139053,309,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,309,0,0
+1719647139363,251,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,249,0,0
+1719647139408,237,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,237,0,0
+1719647139472,214,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,214,0,0
+1719647139251,447,/logout.php,200,OK,Thread Group 1-9,text,true,,3421,1657,10,10,https://performancetestingpractice.com/login.php,227,0,0
+1719647139251,227,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,227,0,0
+1719647139478,220,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2935,828,10,10,https://performancetestingpractice.com/login.php,220,0,0
+1719647139378,463,/logout.php,200,OK,Thread Group 1-5,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647139378,238,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,238,0,0
+1719647139616,225,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,225,0,0
+1719647139615,233,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,232,0,0
+1719647139621,255,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,255,0,0
+1719647139352,530,/logout.php,200,OK,Thread Group 1-7,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,265,0,0
+1719647139352,265,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,265,0,0
+1719647139618,264,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,264,0,0
+1719647139444,520,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2034,10,10,https://performancetestingpractice.com/dashboard.php,288,0,0
+1719647139444,288,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1107,10,10,https://performancetestingpractice.com/login.php,288,0,0
+1719647139732,232,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,232,0,0
+1719647139701,263,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,263,0,0
+1719647139581,414,/logout.php,200,OK,Thread Group 1-3,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,196,0,0
+1719647139581,196,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,196,0,0
+1719647139778,217,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,216,0,0
+1719647139846,229,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,229,0,0
+1719647139878,224,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,224,0,0
+1719647139647,476,/logout.php,200,OK,Thread Group 1-1,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647139647,233,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,233,0,0
+1719647139880,243,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,243,0,0
+1719647139886,243,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,243,0,0
+1719647139688,467,/logout.php,200,OK,Thread Group 1-6,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647139688,245,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,245,0,0
+1719647139934,221,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647139616,547,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,317,0,0
+1719647139616,317,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,317,0,0
+1719647139933,230,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,230,0,0
+1719647139969,244,/login.php,200,OK,Thread Group 1-9,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,244,0,0
+1719647139998,216,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,216,0,0
+1719647139968,249,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,249,0,0
+1719647140076,239,/login.php,200,OK,Thread Group 1-5,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647139849,470,/logout.php,200,OK,Thread Group 1-8,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,228,0,0
+1719647139849,228,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,228,0,0
+1719647140078,241,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647140127,247,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,247,0,0
+1719647140131,249,/login.php,200,OK,Thread Group 1-7,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,249,0,0
+1719647140166,232,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,232,0,0
+1719647140216,223,/login.php,200,OK,Thread Group 1-3,text,true,,2943,826,10,10,https://performancetestingpractice.com/login.php,223,0,0
+1719647140219,227,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,227,0,0
+1719647140103,452,/logout.php,200,OK,Thread Group 1-10,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647140103,215,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,215,0,0
+1719647140318,237,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647140323,239,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,238,0,0
+1719647140376,232,/login.php,200,OK,Thread Group 1-1,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647140401,229,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,229,0,0
+1719647140217,506,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,270,0,0
+1719647140217,270,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,270,0,0
+1719647140488,235,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,235,0,0
+1719647140560,210,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,210,0,0
+1719647140563,214,/login.php,200,OK,Thread Group 1-8,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,214,0,0
+1719647140317,532,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15515,2033,10,10,https://performancetestingpractice.com/dashboard.php,282,0,0
+1719647140317,282,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10616,1106,10,10,https://performancetestingpractice.com/login.php,282,0,0
+1719647140599,250,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,249,0,0
+1719647140158,718,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,718,0,0
+1719647140447,467,/logout.php,200,OK,Thread Group 1-2,text,true,,3423,1657,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647140447,232,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,232,0,0
+1719647140679,235,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2937,828,10,10,https://performancetestingpractice.com/login.php,235,0,0
+1719647140387,539,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,302,0,0
+1719647140387,302,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,302,0,0
+1719647140689,237,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,237,0,0
+1719647140726,233,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,233,0,0
+1719647140441,522,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15515,2033,10,10,https://performancetestingpractice.com/dashboard.php,310,0,0
+1719647140441,310,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10616,1106,10,10,https://performancetestingpractice.com/login.php,310,0,0
+1719647140753,210,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,210,0,0
+1719647140772,239,/login.php,200,OK,Thread Group 1-10,text,true,,2944,826,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647140851,239,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,239,0,0
+1719647140877,218,/login.php,200,OK,Thread Group 1-6,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,218,0,0
+1719647140631,467,/logout.php,200,OK,Thread Group 1-4,text,true,,3428,1657,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647140631,222,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,222,0,0
+1719647140853,245,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2942,828,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647140917,238,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,238,0,0
+1719647140610,548,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,284,0,0
+1719647140610,285,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,284,0,0
+1719647140894,264,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,264,0,0
+1719647140928,241,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,241,0,0
+1719647140960,217,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,217,0,0
+1719647140965,231,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647141091,237,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,236,0,0
+1719647141101,229,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,228,0,0
+1719647140779,552,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2032,10,10,https://performancetestingpractice.com/dashboard.php,312,0,0
+1719647140779,312,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1105,10,10,https://performancetestingpractice.com/login.php,312,0,0
+1719647141090,241,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,241,0,0
+1719647141156,238,/login.php,200,OK,Thread Group 1-2,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647141197,200,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,200,0,0
+1719647141162,238,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,238,0,0
+1719647141171,231,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,231,0,0
+1719647141019,517,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,261,0,0
+1719647141019,261,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,261,0,0
+1719647141313,223,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,223,0,0
+1719647141336,224,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647141331,229,/login.php,200,OK,Thread Group 1-4,text,true,,2936,826,10,10,https://performancetestingpractice.com/login.php,229,0,0
+1719647141097,502,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,271,0,0
+1719647141097,271,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,271,0,0
+1719647141368,231,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647141179,448,/logout.php,200,OK,Thread Group 1-9,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,214,0,0
+1719647141179,214,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,214,0,0
+1719647141394,233,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647141401,242,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,242,0,0
+1719647141329,430,/logout.php,200,OK,Thread Group 1-5,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,207,0,0
+1719647141329,207,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,207,0,0
+1719647141536,223,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647141539,225,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,225,0,0
+1719647141562,270,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,270,0,0
+1719647141631,220,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,220,0,0
+1719647141398,459,/logout.php,200,OK,Thread Group 1-3,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,237,0,0
+1719647141398,237,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,237,0,0
+1719647141636,221,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647141602,261,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,256,0,0
+1719647141395,522,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,294,0,0
+1719647141395,294,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,294,0,0
+1719647141690,227,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647141403,521,/logout.php,200,OK,Thread Group 1-7,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,242,0,0
+1719647141403,242,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,242,0,0
+1719647141645,279,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,279,0,0
+1719647141763,222,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,221,0,0
+1719647141765,233,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,233,0,0
+1719647141856,223,/login.php,200,OK,Thread Group 1-9,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,223,0,0
+1719647141864,216,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,216,0,0
+1719647141862,224,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,224,0,0
+1719647141562,595,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,330,0,0
+1719647141562,331,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,330,0,0
+1719647141893,264,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,263,0,0
+1719647141922,251,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,251,0,0
+1719647141644,532,/logout.php,200,OK,Thread Group 1-1,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,268,0,0
+1719647141644,268,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,268,0,0
+1719647141912,264,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,263,0,0
+1719647141928,248,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,247,0,0
+1719647141987,211,/login.php,200,OK,Thread Group 1-5,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,211,0,0
+1719647141840,478,/logout.php,200,OK,Thread Group 1-8,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647141840,239,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,238,0,0
+1719647142079,239,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647142088,240,/login.php,200,OK,Thread Group 1-3,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647142161,236,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,235,0,0
+1719647142175,225,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,221,0,0
+1719647142180,240,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,240,0,0
+1719647142178,245,/login.php,200,OK,Thread Group 1-7,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647142000,476,/logout.php,200,OK,Thread Group 1-10,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,231,0,0
+1719647142000,231,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,231,0,0
+1719647142231,245,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647142083,420,/logout.php,200,OK,Thread Group 1-6,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,211,0,0
+1719647142083,211,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,211,0,0
+1719647142295,208,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,206,0,0
+1719647142323,235,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,235,0,0
+1719647142081,540,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,283,0,0
+1719647142081,283,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,283,0,0
+1719647142364,257,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,257,0,0
+1719647142399,237,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,237,0,0
+1719647142422,223,/login.php,200,OK,Thread Group 1-1,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647142200,502,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,276,0,0
+1719647142200,276,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,276,0,0
+1719647142477,225,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647142506,210,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,210,0,0
+1719647142559,237,/login.php,200,OK,Thread Group 1-8,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,237,0,0
+1719647142625,252,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,252,0,0
+1719647142329,555,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,297,0,0
+1719647142329,297,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,297,0,0
+1719647142626,258,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,258,0,0
+1719647142401,488,/logout.php,200,OK,Thread Group 1-2,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,234,0,0
+1719647142401,234,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,234,0,0
+1719647142635,254,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,254,0,0
+1719647142709,220,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,220,0,0
+1719647142732,208,/login.php,200,OK,Thread Group 1-6,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,208,0,0
+1719647142425,533,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,285,0,0
+1719647142425,285,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,285,0,0
+1719647142710,248,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,247,0,0
+1719647142888,232,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647142879,244,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,244,0,0
+1719647142637,488,/logout.php,200,OK,Thread Group 1-4,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,244,0,0
+1719647142637,244,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,244,0,0
+1719647142882,243,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,243,0,0
+1719647142891,238,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,238,0,0
+1719647142931,230,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,230,0,0
+1719647142646,534,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,290,0,0
+1719647142646,290,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,290,0,0
+1719647142936,244,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,244,0,0
+1719647142960,237,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,237,0,0
+1719647142480,736,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,736,0,0
+1719647142798,518,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2028,10,10,https://performancetestingpractice.com/dashboard.php,284,0,0
+1719647142798,284,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1101,10,10,https://performancetestingpractice.com/login.php,284,0,0
+1719647143082,234,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,234,0,0
+1719647143122,232,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,232,0,0
+1719647143130,269,/login.php,200,OK,Thread Group 1-2,text,true,,2934,826,10,10,https://performancetestingpractice.com/login.php,269,0,0
+1719647143127,277,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,277,0,0
+1719647142942,493,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,278,0,0
+1719647142942,278,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,278,0,0
+1719647143220,215,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,215,0,0
+1719647143218,219,/login.php,200,OK,Thread Group 1-10,text,true,,2944,826,10,10,https://performancetestingpractice.com/login.php,219,0,0
+1719647143195,244,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,244,0,0
+1719647143199,244,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,243,0,0
+1719647143319,252,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,252,0,0
+1719647143123,454,/logout.php,200,OK,Thread Group 1-9,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647143123,237,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,236,0,0
+1719647143372,205,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,205,0,0
+1719647143162,478,/logout.php,200,OK,Thread Group 1-5,text,true,,3430,1657,10,10,https://performancetestingpractice.com/login.php,213,0,0
+1719647143162,213,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,213,0,0
+1719647143379,261,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2944,828,10,10,https://performancetestingpractice.com/login.php,260,0,0
+1719647143437,207,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,207,0,0
+1719647143406,242,/login.php,200,OK,Thread Group 1-4,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,241,0,0
+1719647143440,237,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,236,0,0
+1719647143572,224,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,224,0,0
+1719647143355,444,/logout.php,200,OK,Thread Group 1-3,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,218,0,0
+1719647143355,218,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,218,0,0
+1719647143573,226,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647143582,222,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,221,0,0
+1719647143643,216,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,216,0,0
+1719647143646,228,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,228,0,0
+1719647143401,475,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,280,0,0
+1719647143401,280,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,280,0,0
+1719647143682,194,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,194,0,0
+1719647143446,443,/logout.php,200,OK,Thread Group 1-7,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,229,0,0
+1719647143446,229,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,229,0,0
+1719647143675,214,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,213,0,0
+1719647143438,489,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,249,0,0
+1719647143438,250,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,249,0,0
+1719647143688,239,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,239,0,0
+1719647143802,234,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,233,0,0
+1719647143805,233,/login.php,200,OK,Thread Group 1-9,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647143861,212,/login.php,200,OK,Thread Group 1-5,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,212,0,0
+1719647143880,236,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,236,0,0
+1719647143678,442,/logout.php,200,OK,Thread Group 1-1,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,205,0,0
+1719647143678,205,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,205,0,0
+1719647143883,237,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647143900,224,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,224,0,0
+1719647143929,251,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,251,0,0
+1719647143649,547,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,290,0,0
+1719647143649,291,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,290,0,0
+1719647143941,255,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,255,0,0
+1719647143798,480,/logout.php,200,OK,Thread Group 1-8,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647143798,233,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,233,0,0
+1719647144032,246,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,246,0,0
+1719647143875,407,/logout.php,200,OK,Thread Group 1-6,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,207,0,0
+1719647143875,207,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,207,0,0
+1719647144082,200,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,200,0,0
+1719647144037,248,/login.php,200,OK,Thread Group 1-3,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,248,0,0
+1719647144118,240,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,240,0,0
+1719647144123,242,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,242,0,0
+1719647144125,242,/login.php,200,OK,Thread Group 1-7,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,242,0,0
+1719647144181,227,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,226,0,0
+1719647144237,246,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,246,0,0
+1719647144280,238,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,238,0,0
+1719647144040,517,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,291,0,0
+1719647144040,291,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,291,0,0
+1719647144331,226,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647144075,495,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15514,2035,10,10,https://performancetestingpractice.com/dashboard.php,257,0,0
+1719647144075,257,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10615,1108,10,10,https://performancetestingpractice.com/login.php,257,0,0
+1719647144332,238,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,238,0,0
+1719647144366,241,/login.php,200,OK,Thread Group 1-1,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,241,0,0
+1719647144485,234,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,233,0,0
+1719647144519,213,/login.php,200,OK,Thread Group 1-8,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,213,0,0
+1719647144573,208,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,208,0,0
+1719647144286,511,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2028,10,10,https://performancetestingpractice.com/dashboard.php,282,0,0
+1719647144286,282,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1101,10,10,https://performancetestingpractice.com/login.php,282,0,0
+1719647144568,229,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,229,0,0
+1719647144561,241,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,241,0,0
+1719647144360,476,/logout.php,200,OK,Thread Group 1-2,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,231,0,0
+1719647144360,231,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,231,0,0
+1719647144591,245,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647144409,460,/logout.php,200,OK,Thread Group 1-10,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647144409,221,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,221,0,0
+1719647144631,238,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647144368,514,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,288,0,0
+1719647144368,288,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,288,0,0
+1719647144656,226,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647144782,218,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,218,0,0
+1719647144800,205,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,205,0,0
+1719647144285,726,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,725,0,0
+1719647144842,235,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,233,0,0
+1719647144803,276,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,276,0,0
+1719647144872,209,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,208,0,0
+1719647144611,527,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,303,0,0
+1719647144611,303,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,303,0,0
+1719647144914,224,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,223,0,0
+1719647144885,253,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,253,0,0
+1719647144720,476,/logout.php,200,OK,Thread Group 1-4,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,231,0,0
+1719647144720,231,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,231,0,0
+1719647144951,245,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647144734,503,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,270,0,0
+1719647144734,270,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,270,0,0
+1719647145004,233,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,232,0,0
+1719647145007,233,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,233,0,0
+1719647145012,230,/login.php,200,OK,Thread Group 1-6,text,true,,2937,826,10,10,https://performancetestingpractice.com/login.php,230,0,0
+1719647145082,238,/login.php,200,OK,Thread Group 1-10,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647145078,244,/login.php,200,OK,Thread Group 1-2,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,244,0,0
+1719647145140,257,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,257,0,0
+1719647145141,256,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,256,0,0
+1719647145002,434,/logout.php,200,OK,Thread Group 1-5,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,230,0,0
+1719647145002,230,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,230,0,0
+1719647145232,204,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,204,0,0
+1719647145200,239,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,239,0,0
+1719647145239,203,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,203,0,0
+1719647145079,479,/logout.php,200,OK,Thread Group 1-9,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647145079,240,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,239,0,0
+1719647145319,239,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647145439,201,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,201,0,0
+1719647145399,256,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,256,0,0
+1719647145443,214,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,212,0,0
+1719647145441,219,/login.php,200,OK,Thread Group 1-4,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,218,0,0
+1719647145241,437,/logout.php,200,OK,Thread Group 1-3,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,216,0,0
+1719647145241,216,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,216,0,0
+1719647145457,221,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647145243,511,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,280,0,0
+1719647145243,280,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,280,0,0
+1719647145524,230,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,230,0,0
+1719647145592,244,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,244,0,0
+1719647145321,519,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,281,0,0
+1719647145321,282,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,281,0,0
+1719647145603,237,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,236,0,0
+1719647145642,202,/login.php,200,OK,Thread Group 1-5,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,202,0,0
+1719647145330,518,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,277,0,0
+1719647145330,277,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,277,0,0
+1719647145607,241,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,240,0,0
+1719647145398,490,/logout.php,200,OK,Thread Group 1-7,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,256,0,0
+1719647145398,256,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,256,0,0
+1719647145654,234,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,234,0,0
+1719647145682,219,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,219,0,0
+1719647145756,215,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,214,0,0
+1719647145844,233,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,233,0,0
+1719647145839,239,/login.php,200,OK,Thread Group 1-9,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647145658,425,/logout.php,200,OK,Thread Group 1-8,text,true,,3428,1657,10,10,https://performancetestingpractice.com/login.php,213,0,0
+1719647145658,213,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,213,0,0
+1719647145872,211,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2942,828,10,10,https://performancetestingpractice.com/login.php,211,0,0
+1719647145852,231,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647145657,432,/logout.php,200,OK,Thread Group 1-1,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,225,0,0
+1719647145657,225,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,225,0,0
+1719647145883,206,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,206,0,0
+1719647145904,221,/login.php,200,OK,Thread Group 1-3,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,220,0,0
+1719647145893,236,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,236,0,0
+1719647145974,222,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,221,0,0
+1719647145661,574,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,333,0,0
+1719647145661,333,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,333,0,0
+1719647145996,239,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,239,0,0
+1719647146079,238,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,238,0,0
+1719647146085,234,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,234,0,0
+1719647146086,233,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,233,0,0
+1719647145845,478,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15515,2033,10,10,https://performancetestingpractice.com/dashboard.php,278,0,0
+1719647145845,278,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10616,1106,10,10,https://performancetestingpractice.com/login.php,278,0,0
+1719647146123,200,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,200,0,0
+1719647146092,237,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,237,0,0
+1719647146130,275,/login.php,200,OK,Thread Group 1-7,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,275,0,0
+1719647146261,217,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,217,0,0
+1719647146325,220,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,220,0,0
+1719647146330,226,/login.php,200,OK,Thread Group 1-1,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647146320,237,/login.php,200,OK,Thread Group 1-8,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647146079,518,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,284,0,0
+1719647146079,284,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,284,0,0
+1719647146364,233,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,233,0,0
+1719647146197,441,/logout.php,200,OK,Thread Group 1-6,text,true,,3423,1657,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647146197,224,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,224,0,0
+1719647146421,217,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2937,828,10,10,https://performancetestingpractice.com/login.php,217,0,0
+1719647146126,589,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,319,0,0
+1719647146126,319,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,319,0,0
+1719647146446,269,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,269,0,0
+1719647146547,217,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,217,0,0
+1719647146479,304,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,303,0,0
+1719647146320,466,/logout.php,200,OK,Thread Group 1-2,text,true,,3423,1657,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647146320,240,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,240,0,0
+1719647146560,226,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2937,828,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647146318,472,/logout.php,200,OK,Thread Group 1-10,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647146318,221,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,221,0,0
+1719647146539,251,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,251,0,0
+1719647146600,241,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,241,0,0
+1719647146641,238,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,238,0,0
+1719647146718,202,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,202,0,0
+1719647146408,517,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,282,0,0
+1719647146408,282,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,282,0,0
+1719647146690,235,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,235,0,0
+1719647146794,204,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,204,0,0
+1719647146795,235,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,235,0,0
+1719647146558,521,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2028,10,10,https://performancetestingpractice.com/dashboard.php,281,0,0
+1719647146558,281,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1101,10,10,https://performancetestingpractice.com/login.php,281,0,0
+1719647146839,240,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,239,0,0
+1719647146880,199,/login.php,200,OK,Thread Group 1-6,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,198,0,0
+1719647146842,241,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,241,0,0
+1719647146558,531,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,287,0,0
+1719647146558,287,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,287,0,0
+1719647146846,243,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,243,0,0
+1719647146922,241,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,241,0,0
+1719647146927,242,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,242,0,0
+1719647146999,228,/login.php,200,OK,Thread Group 1-2,text,true,,2943,826,10,10,https://performancetestingpractice.com/login.php,227,0,0
+1719647146767,462,/logout.php,200,OK,Thread Group 1-5,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647146767,240,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,240,0,0
+1719647147007,222,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647147031,210,/login.php,200,OK,Thread Group 1-10,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,209,0,0
+1719647146784,460,/logout.php,200,OK,Thread Group 1-4,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647146784,245,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,245,0,0
+1719647147029,215,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647147082,236,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,236,0,0
+1719647147092,248,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,248,0,0
+1719647147170,234,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,233,0,0
+1719647147231,227,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,227,0,0
+1719647147248,234,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,234,0,0
+1719647147320,224,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,224,0,0
+1719647147084,473,/logout.php,200,OK,Thread Group 1-9,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647147084,239,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,239,0,0
+1719647147323,234,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,234,0,0
+1719647147341,220,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,220,0,0
+1719647147082,531,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,285,0,0
+1719647147082,285,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,285,0,0
+1719647147369,244,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,243,0,0
+1719647147164,457,/logout.php,200,OK,Thread Group 1-3,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647147164,233,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,233,0,0
+1719647147397,224,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647147459,240,/login.php,200,OK,Thread Group 1-5,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647147228,492,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,262,0,0
+1719647147228,262,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,262,0,0
+1719647147490,230,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,230,0,0
+1719647147484,240,/login.php,200,OK,Thread Group 1-4,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,239,0,0
+1719647147242,493,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,275,0,0
+1719647147242,275,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,275,0,0
+1719647147517,218,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,218,0,0
+1719647147560,240,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,239,0,0
+1719647147619,221,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,221,0,0
+1719647147623,217,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,217,0,0
+1719647147404,474,/logout.php,200,OK,Thread Group 1-7,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,230,0,0
+1719647147404,230,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,230,0,0
+1719647147634,244,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,243,0,0
+1719647147737,236,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,236,0,0
+1719647147545,430,/logout.php,200,OK,Thread Group 1-8,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,190,0,0
+1719647147545,190,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,190,0,0
+1719647147735,240,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647147722,253,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,253,0,0
+1719647147801,240,/login.php,200,OK,Thread Group 1-9,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647147562,485,/logout.php,200,OK,Thread Group 1-1,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,237,0,0
+1719647147562,237,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,237,0,0
+1719647147800,247,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,247,0,0
+1719647147843,236,/login.php,200,OK,Thread Group 1-3,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647147844,238,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,238,0,0
+1719647147881,235,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,235,0,0
+1719647147700,490,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,271,0,0
+1719647147700,271,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,271,0,0
+1719647147971,219,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,219,0,0
+1719647147974,220,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,220,0,0
+1719647147978,218,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,218,0,0
+1719647147977,222,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,222,0,0
+1719647147725,553,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,314,0,0
+1719647147725,314,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,314,0,0
+1719647148040,238,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,237,0,0
+1719647148049,229,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,229,0,0
+1719647148118,251,/login.php,200,OK,Thread Group 1-7,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,251,0,0
+1719647148193,219,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,219,0,0
+1719647148198,245,/login.php,200,OK,Thread Group 1-8,text,true,,2937,826,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647148083,412,/logout.php,200,OK,Thread Group 1-6,text,true,,3428,1657,10,10,https://performancetestingpractice.com/login.php,211,0,0
+1719647148083,211,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,211,0,0
+1719647148294,201,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2942,828,10,10,https://performancetestingpractice.com/login.php,201,0,0
+1719647148042,495,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,277,0,0
+1719647148042,277,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,277,0,0
+1719647148320,217,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,217,0,0
+1719647148325,237,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,237,0,0
+1719647148327,238,/login.php,200,OK,Thread Group 1-1,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647148081,510,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,279,0,0
+1719647148081,279,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,279,0,0
+1719647148360,231,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647148415,204,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,204,0,0
+1719647148195,448,/logout.php,200,OK,Thread Group 1-10,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647148195,221,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,221,0,0
+1719647148416,227,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647148200,454,/logout.php,200,OK,Thread Group 1-2,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,243,0,0
+1719647148200,243,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,243,0,0
+1719647148443,211,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,211,0,0
+1719647148499,218,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,217,0,0
+1719647148540,227,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,227,0,0
+1719647148564,231,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,230,0,0
+1719647148594,204,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,204,0,0
+1719647148661,227,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,227,0,0
+1719647148370,534,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2028,10,10,https://performancetestingpractice.com/dashboard.php,281,0,0
+1719647148370,281,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1101,10,10,https://performancetestingpractice.com/login.php,281,0,0
+1719647148652,252,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,252,0,0
+1719647148718,220,/login.php,200,OK,Thread Group 1-6,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,220,0,0
+1719647148444,513,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2027,10,10,https://performancetestingpractice.com/dashboard.php,286,0,0
+1719647148444,286,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1100,10,10,https://performancetestingpractice.com/login.php,286,0,0
+1719647148730,227,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,227,0,0
+1719647148622,395,/logout.php,200,OK,Thread Group 1-5,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,210,0,0
+1719647148622,210,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,210,0,0
+1719647148833,184,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,184,0,0
+1719647148769,252,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,252,0,0
+1719647148799,224,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,223,0,0
+1719647148566,520,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,284,0,0
+1719647148566,284,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,284,0,0
+1719647148850,236,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,235,0,0
+1719647148890,237,/login.php,200,OK,Thread Group 1-2,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,237,0,0
+1719647148906,226,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,226,0,0
+1719647149020,213,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,213,0,0
+1719647149016,221,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,221,0,0
+1719647148795,444,/logout.php,200,OK,Thread Group 1-4,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,229,0,0
+1719647148795,229,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,229,0,0
+1719647149024,215,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647149089,232,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,232,0,0
+1719647148645,725,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,724,0,0
+1719647149133,239,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,239,0,0
+1719647148939,492,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,278,0,0
+1719647148939,278,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,278,0,0
+1719647149217,214,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,213,0,0
+1719647149235,212,/login.php,200,OK,Thread Group 1-5,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,212,0,0
+1719647149238,238,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,238,0,0
+1719647149023,455,/logout.php,200,OK,Thread Group 1-3,text,true,,3420,1657,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647149023,215,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,215,0,0
+1719647149238,240,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2934,828,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647149022,465,/logout.php,200,OK,Thread Group 1-9,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647149022,221,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,221,0,0
+1719647149243,244,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,244,0,0
+1719647149242,245,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,245,0,0
+1719647149323,238,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,238,0,0
+1719647149371,231,/login.php,200,OK,Thread Group 1-10,text,true,,2937,826,10,10,https://performancetestingpractice.com/login.php,231,0,0
+1719647149128,506,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,283,0,0
+1719647149128,283,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,283,0,0
+1719647149411,223,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,223,0,0
+1719647149433,216,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,215,0,0
+1719647149481,240,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,240,0,0
+1719647149490,234,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,234,0,0
+1719647149494,233,/login.php,200,OK,Thread Group 1-4,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647149650,201,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,201,0,0
+1719647149373,478,/logout.php,200,OK,Thread Group 1-7,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,244,0,0
+1719647149373,244,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,244,0,0
+1719647149618,233,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647149637,219,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,219,0,0
+1719647149478,443,/logout.php,200,OK,Thread Group 1-8,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,220,0,0
+1719647149478,220,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,220,0,0
+1719647149699,222,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647149448,485,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15515,2033,10,10,https://performancetestingpractice.com/dashboard.php,271,0,0
+1719647149448,271,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10616,1106,10,10,https://performancetestingpractice.com/login.php,271,0,0
+1719647149719,214,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,213,0,0
+1719647149723,232,/login.php,200,OK,Thread Group 1-3,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647149725,233,/login.php,200,OK,Thread Group 1-9,text,true,,2936,826,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647149562,473,/logout.php,200,OK,Thread Group 1-1,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647149562,236,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,236,0,0
+1719647149798,237,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,236,0,0
+1719647149858,216,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,216,0,0
+1719647149855,228,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,228,0,0
+1719647149604,529,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2033,10,10,https://performancetestingpractice.com/dashboard.php,285,0,0
+1719647149604,285,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,285,0,0
+1719647149889,244,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,244,0,0
+1719647149936,215,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,214,0,0
+1719647149924,231,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,231,0,0
+1719647149852,409,/logout.php,200,OK,Thread Group 1-6,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,209,0,0
+1719647149852,209,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,209,0,0
+1719647150061,200,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,200,0,0
+1719647149728,556,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,305,0,0
+1719647149728,305,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,305,0,0
+1719647150033,251,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,251,0,0
+1719647150038,261,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,261,0,0
+1719647150136,224,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,223,0,0
+1719647150152,210,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,209,0,0
+1719647150084,281,/login.php,200,OK,Thread Group 1-7,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,281,0,0
+1719647150156,211,/login.php,200,OK,Thread Group 1-8,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,210,0,0
+1719647150265,214,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,214,0,0
+1719647149957,525,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,286,0,0
+1719647149957,286,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,286,0,0
+1719647150244,238,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,237,0,0
+1719647149960,525,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,290,0,0
+1719647149960,290,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,290,0,0
+1719647150251,234,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,234,0,0
+1719647150075,459,/logout.php,200,OK,Thread Group 1-2,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,213,0,0
+1719647150075,213,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,213,0,0
+1719647150288,246,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,246,0,0
+1719647150287,251,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,250,0,0
+1719647150300,259,/login.php,200,OK,Thread Group 1-1,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,259,0,0
+1719647150361,236,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,236,0,0
+1719647150480,238,/login.php,200,OK,Thread Group 1-6,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,237,0,0
+1719647150484,239,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,239,0,0
+1719647150487,239,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,239,0,0
+1719647150537,225,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,224,0,0
+1719647150539,240,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,240,0,0
+1719647150362,451,/logout.php,200,OK,Thread Group 1-5,text,true,,3423,1657,10,10,https://performancetestingpractice.com/login.php,230,0,0
+1719647150362,230,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,230,0,0
+1719647150592,221,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2937,828,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647150367,510,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15515,2031,10,10,https://performancetestingpractice.com/dashboard.php,278,0,0
+1719647150367,279,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10616,1104,10,10,https://performancetestingpractice.com/login.php,278,0,0
+1719647150646,231,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647150366,525,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2029,10,10,https://performancetestingpractice.com/dashboard.php,299,0,0
+1719647150366,300,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,299,0,0
+1719647150666,225,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,225,0,0
+1719647150727,230,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,230,0,0
+1719647150725,234,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,234,0,0
+1719647150763,199,/login.php,200,OK,Thread Group 1-2,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,199,0,0
+1719647150815,221,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,221,0,0
+1719647150598,440,/logout.php,200,OK,Thread Group 1-10,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647150598,215,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,215,0,0
+1719647150812,226,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647150879,217,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,217,0,0
+1719647150560,556,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2037,10,10,https://performancetestingpractice.com/dashboard.php,294,0,0
+1719647150560,294,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1110,10,10,https://performancetestingpractice.com/login.php,294,0,0
+1719647150853,263,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,263,0,0
+1719647150893,231,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647150719,514,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15515,2034,10,10,https://performancetestingpractice.com/dashboard.php,291,0,0
+1719647150719,291,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10616,1107,10,10,https://performancetestingpractice.com/login.php,291,0,0
+1719647151009,224,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647151041,213,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,213,0,0
+1719647151038,216,/login.php,200,OK,Thread Group 1-5,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,216,0,0
+1719647150780,494,/logout.php,200,OK,Thread Group 1-4,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,230,0,0
+1719647150780,230,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,230,0,0
+1719647151010,264,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,263,0,0
+1719647151098,216,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,216,0,0
+1719647151119,207,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,207,0,0
+1719647151126,269,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,268,0,0
+1719647150959,460,/logout.php,200,OK,Thread Group 1-3,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647150959,232,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,232,0,0
+1719647151191,228,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,227,0,0
+1719647150957,465,/logout.php,200,OK,Thread Group 1-9,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647150957,238,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,238,0,0
+1719647151196,226,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647151237,237,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,236,0,0
+1719647150962,514,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,293,0,0
+1719647150962,293,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,293,0,0
+1719647151255,221,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,221,0,0
+1719647151256,225,/login.php,200,OK,Thread Group 1-10,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,225,0,0
+1719647151276,211,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,211,0,0
+1719647151327,230,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,230,0,0
+1719647151421,213,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,213,0,0
+1719647151426,212,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,211,0,0
+1719647151475,230,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,230,0,0
+1719647151480,239,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,239,0,0
+1719647151257,471,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,261,0,0
+1719647151257,261,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,261,0,0
+1719647151518,210,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,210,0,0
+1719647151488,240,/login.php,200,OK,Thread Group 1-4,text,true,,2936,826,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647151315,459,/logout.php,200,OK,Thread Group 1-8,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,235,0,0
+1719647151315,235,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,235,0,0
+1719647151550,224,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,223,0,0
+1719647151636,224,/login.php,200,OK,Thread Group 1-3,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647151639,237,/login.php,200,OK,Thread Group 1-9,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,237,0,0
+1719647151417,463,/logout.php,200,OK,Thread Group 1-7,text,true,,3428,1657,10,10,https://performancetestingpractice.com/login.php,220,0,0
+1719647151417,220,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,220,0,0
+1719647151637,243,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2942,828,10,10,https://performancetestingpractice.com/login.php,243,0,0
+1719647151720,232,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,232,0,0
+1719647151731,224,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647151483,488,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15514,2035,10,10,https://performancetestingpractice.com/dashboard.php,278,0,0
+1719647151483,278,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10615,1108,10,10,https://performancetestingpractice.com/login.php,278,0,0
+1719647151762,209,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,209,0,0
+1719647151777,217,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,217,0,0
+1719647151558,478,/logout.php,200,OK,Thread Group 1-1,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,233,0,0
+1719647151558,233,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,233,0,0
+1719647151791,245,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647151883,235,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,235,0,0
+1719647151706,450,/logout.php,200,OK,Thread Group 1-6,text,true,,3423,1657,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647151706,233,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,232,0,0
+1719647151939,217,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2937,828,10,10,https://performancetestingpractice.com/login.php,216,0,0
+1719647151957,243,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,243,0,0
+1719647151973,227,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,227,0,0
+1719647151995,224,/login.php,200,OK,Thread Group 1-8,text,true,,2943,826,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647151731,518,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15509,2031,10,10,https://performancetestingpractice.com/dashboard.php,289,0,0
+1719647151731,289,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10610,1104,10,10,https://performancetestingpractice.com/login.php,289,0,0
+1719647152020,229,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,228,0,0
+1719647152040,239,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,238,0,0
+1719647152120,242,/login.php,200,OK,Thread Group 1-7,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,242,0,0
+1719647152158,220,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,220,0,0
+1719647151862,543,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15511,2031,10,10,https://performancetestingpractice.com/dashboard.php,297,0,0
+1719647151862,297,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,297,0,0
+1719647152159,246,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4894,927,10,10,https://performancetestingpractice.com/dashboard.php,243,0,0
+1719647151953,465,/logout.php,200,OK,Thread Group 1-2,text,true,,3428,1657,10,10,https://performancetestingpractice.com/login.php,237,0,0
+1719647151953,237,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,237,0,0
+1719647152190,228,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2942,828,10,10,https://performancetestingpractice.com/login.php,228,0,0
+1719647151878,543,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15515,2033,10,10,https://performancetestingpractice.com/dashboard.php,293,0,0
+1719647151878,293,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10616,1106,10,10,https://performancetestingpractice.com/login.php,293,0,0
+1719647152171,250,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,250,0,0
+1719647152201,228,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,228,0,0
+1719647152252,232,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,232,0,0
+1719647152280,242,/login.php,200,OK,Thread Group 1-1,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,242,0,0
+1719647152379,209,/login.php,200,OK,Thread Group 1-6,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,209,0,0
+1719647152201,434,/logout.php,200,OK,Thread Group 1-5,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,207,0,0
+1719647152201,207,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,207,0,0
+1719647152409,226,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,226,0,0
+1719647152421,218,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,218,0,0
+1719647152423,222,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,222,0,0
+1719647152221,485,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,260,0,0
+1719647152221,260,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,260,0,0
+1719647152481,225,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647152485,227,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,226,0,0
+1719647152644,216,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,216,0,0
+1719647152429,439,/logout.php,200,OK,Thread Group 1-10,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,212,0,0
+1719647152429,212,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,212,0,0
+1719647152641,227,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,227,0,0
+1719647152640,231,/login.php,200,OK,Thread Group 1-2,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,231,0,0
+1719647152647,227,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,226,0,0
+1719647152364,516,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2028,10,10,https://performancetestingpractice.com/dashboard.php,294,0,0
+1719647152364,294,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1101,10,10,https://performancetestingpractice.com/login.php,294,0,0
+1719647152658,222,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,222,0,0
+1719647152709,211,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,210,0,0
+1719647152525,519,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15511,2031,10,10,https://performancetestingpractice.com/dashboard.php,294,0,0
+1719647152525,294,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,294,0,0
+1719647152819,225,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4894,927,10,10,https://performancetestingpractice.com/dashboard.php,224,0,0
+1719647152589,459,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,257,0,0
+1719647152589,257,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,257,0,0
+1719647152847,201,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,201,0,0
+1719647152407,650,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,649,0,451
+1719647152861,200,/login.php,200,OK,Thread Group 1-5,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,200,0,0
+1719647152870,249,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,248,0,0
+1719647152883,244,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,243,0,0
+1719647152921,206,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,206,0,0
+1719647152712,431,/logout.php,200,OK,Thread Group 1-4,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,216,0,0
+1719647152712,216,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,216,0,0
+1719647152928,215,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,215,0,0
+1719647153050,201,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,201,0,0
+1719647153058,202,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,202,0,0
+1719647153121,206,/login.php,200,OK,Thread Group 1-10,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,206,0,0
+1719647152874,491,/logout.php,200,OK,Thread Group 1-9,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,247,0,0
+1719647152874,247,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,247,0,0
+1719647153121,244,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,243,0,0
+1719647153146,225,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,225,0,0
+1719647152873,516,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15511,2033,10,10,https://performancetestingpractice.com/dashboard.php,284,0,0
+1719647152873,285,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,284,0,0
+1719647153158,231,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4894,927,10,10,https://performancetestingpractice.com/dashboard.php,231,0,0
+1719647153129,263,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,263,0,0
+1719647153253,206,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,206,0,0
+1719647153062,464,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15511,2029,10,10,https://performancetestingpractice.com/dashboard.php,257,0,0
+1719647153062,257,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10617,1102,10,10,https://performancetestingpractice.com/login.php,257,0,0
+1719647153319,207,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4894,927,10,10,https://performancetestingpractice.com/dashboard.php,206,0,0
+1719647153130,458,/logout.php,200,OK,Thread Group 1-8,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,240,0,0
+1719647153130,240,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,240,0,0
+1719647153371,217,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,217,0,0
+1719647153373,219,/login.php,200,OK,Thread Group 1-4,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,219,0,0
+1719647153369,225,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,225,0,0
+1719647153261,395,/logout.php,200,OK,Thread Group 1-3,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,193,0,0
+1719647153261,193,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,193,0,0
+1719647153454,202,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,202,0,0
+1719647153046,670,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,670,0,438
+1719647153595,269,/login.php,200,OK,Thread Group 1-9,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,268,0,0
+1719647153460,411,/logout.php,200,OK,Thread Group 1-6,text,true,,3426,1657,10,10,https://performancetestingpractice.com/login.php,204,0,0
+1719647153460,204,/logout.php-0,302,Moved Temporarily,Thread Group 1-6,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,204,0,0
+1719647153664,207,/logout.php-1,200,OK,Thread Group 1-6,text,true,,2940,828,10,10,https://performancetestingpractice.com/login.php,207,0,0
+1719647153393,490,/logout.php,200,OK,Thread Group 1-7,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,266,0,0
+1719647153393,266,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,266,0,0
+1719647153660,223,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,223,0,0
+1719647153330,557,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2035,10,10,https://performancetestingpractice.com/dashboard.php,321,0,0
+1719647153330,321,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,321,0,0
+1719647153652,235,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,234,0,0
+1719647153591,296,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,295,0,0
+1719647153717,272,/senerio.php,200,OK,Thread Group 1-1,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,272,0,0
+1719647153392,627,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,627,0,396
+1719647153874,231,/index.php,200,OK,Thread Group 1-6,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,230,0,0
+1719647153890,217,/login.php,200,OK,Thread Group 1-8,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,216,0,0
+1719647153886,222,/index.php,200,OK,Thread Group 1-7,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,222,0,0
+1719647153889,218,/dashboard.php,200,OK,Thread Group 1-10,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,218,0,0
+1719647153593,542,"/login.php, user- 4",200,OK,Thread Group 1-4,text,true,,15511,2035,10,10,https://performancetestingpractice.com/dashboard.php,322,0,0
+1719647153593,323,"/login.php, user- 4-0",302,Moved Temporarily,Thread Group 1-4,text,true,,10617,1108,10,10,https://performancetestingpractice.com/login.php,322,0,0
+1719647153916,219,"/login.php, user- 4-1",200,OK,Thread Group 1-4,text,true,,4894,927,10,10,https://performancetestingpractice.com/dashboard.php,218,0,0
+1719647153529,675,/dashboard.php,200,OK,Thread Group 1-5,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,675,0,443
+1719647154020,216,/senerio.php,200,OK,Thread Group 1-2,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,216,0,0
+1719647154106,207,/login.php,200,OK,Thread Group 1-6,text,true,,2942,826,10,10,https://performancetestingpractice.com/login.php,207,0,0
+1719647154112,214,/senerio.php,200,OK,Thread Group 1-10,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,214,0,0
+1719647153865,469,"/login.php, user- 9",200,OK,Thread Group 1-9,text,true,,15516,2030,10,10,https://performancetestingpractice.com/dashboard.php,269,0,0
+1719647153865,269,"/login.php, user- 9-0",302,Moved Temporarily,Thread Group 1-9,text,true,,10617,1103,10,10,https://performancetestingpractice.com/login.php,269,0,0
+1719647154134,200,"/login.php, user- 9-1",200,OK,Thread Group 1-9,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,200,0,0
+1719647154110,234,/login.php,200,OK,Thread Group 1-7,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,234,0,0
+1719647153659,696,/index.php,200,OK,Thread Group 1-3,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,696,0,0
+1719647154205,222,/senerio.php,200,OK,Thread Group 1-5,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,222,0,0
+1719647153990,488,/logout.php,200,OK,Thread Group 1-1,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,250,0,0
+1719647153990,250,/logout.php-0,302,Moved Temporarily,Thread Group 1-1,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,250,0,0
+1719647154241,237,/logout.php-1,200,OK,Thread Group 1-1,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,237,0,0
+1719647154357,210,/login.php,200,OK,Thread Group 1-3,text,true,,2940,826,10,10,https://performancetestingpractice.com/login.php,210,0,0
+1719647154338,232,/dashboard.php,200,OK,Thread Group 1-9,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,232,0,0
+1719647154110,477,"/login.php, user- 8",200,OK,Thread Group 1-8,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,253,0,0
+1719647154110,253,"/login.php, user- 8-0",302,Moved Temporarily,Thread Group 1-8,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,253,0,0
+1719647154364,223,"/login.php, user- 8-1",200,OK,Thread Group 1-8,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,222,0,0
+1719647154237,410,/logout.php,200,OK,Thread Group 1-2,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,207,0,0
+1719647154237,207,/logout.php-0,302,Moved Temporarily,Thread Group 1-2,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,207,0,0
+1719647154445,202,/logout.php-1,200,OK,Thread Group 1-2,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,202,0,0
+1719647154482,243,/index.php,200,OK,Thread Group 1-1,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,242,0,0
+1719647154137,658,/dashboard.php,200,OK,Thread Group 1-4,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,658,0,426
+1719647154327,470,/logout.php,200,OK,Thread Group 1-10,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,238,0,0
+1719647154327,238,/logout.php-0,302,Moved Temporarily,Thread Group 1-10,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,238,0,0
+1719647154565,232,/logout.php-1,200,OK,Thread Group 1-10,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647154314,493,"/login.php, user- 6",200,OK,Thread Group 1-6,text,true,,15511,2033,10,10,https://performancetestingpractice.com/dashboard.php,272,0,0
+1719647154314,272,"/login.php, user- 6-0",302,Moved Temporarily,Thread Group 1-6,text,true,,10617,1106,10,10,https://performancetestingpractice.com/login.php,272,0,0
+1719647154587,220,"/login.php, user- 6-1",200,OK,Thread Group 1-6,text,true,,4894,927,10,10,https://performancetestingpractice.com/dashboard.php,219,0,0
+1719647154590,221,/dashboard.php,200,OK,Thread Group 1-8,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,221,0,0
+1719647154572,242,/senerio.php,200,OK,Thread Group 1-9,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,242,0,0
+1719647154346,520,"/login.php, user- 7",200,OK,Thread Group 1-7,text,true,,15516,2030,10,10,https://performancetestingpractice.com/dashboard.php,276,0,0
+1719647154346,276,"/login.php, user- 7-0",302,Moved Temporarily,Thread Group 1-7,text,true,,10617,1103,10,10,https://performancetestingpractice.com/login.php,276,0,0
+1719647154622,244,"/login.php, user- 7-1",200,OK,Thread Group 1-7,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,244,0,0
+1719647154650,220,/index.php,200,OK,Thread Group 1-2,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,220,0,0
+1719647154429,444,/logout.php,200,OK,Thread Group 1-5,text,true,,3427,1657,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647154429,222,/logout.php-0,302,Moved Temporarily,Thread Group 1-5,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,222,0,0
+1719647154651,222,/logout.php-1,200,OK,Thread Group 1-5,text,true,,2941,828,10,10,https://performancetestingpractice.com/login.php,222,0,0
+1719647154726,228,/login.php,200,OK,Thread Group 1-1,text,true,,2938,826,10,10,https://performancetestingpractice.com/login.php,228,0,0
+1719647154796,253,/senerio.php,200,OK,Thread Group 1-4,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,245,0,0
+1719647154569,483,"/login.php, user- 3",200,OK,Thread Group 1-3,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,261,0,0
+1719647154569,261,"/login.php, user- 3-0",302,Moved Temporarily,Thread Group 1-3,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,261,0,0
+1719647154830,222,"/login.php, user- 3-1",200,OK,Thread Group 1-3,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,222,0,0
+1719647154813,244,/senerio.php,200,OK,Thread Group 1-8,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,244,0,0
+1719647154802,255,/index.php,200,OK,Thread Group 1-10,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,255,0,0
+1719647154871,200,/login.php,200,OK,Thread Group 1-2,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,200,0,0
+1719647154869,219,/dashboard.php,200,OK,Thread Group 1-7,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,218,0,0
+1719647154877,213,/index.php,200,OK,Thread Group 1-5,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,213,0,0
+1719647155056,207,/dashboard.php,200,OK,Thread Group 1-3,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,206,0,0
+1719647155059,229,/login.php,200,OK,Thread Group 1-10,text,true,,2941,826,10,10,https://performancetestingpractice.com/login.php,229,0,0
+1719647154814,477,/logout.php,200,OK,Thread Group 1-9,text,true,,3424,1657,10,10,https://performancetestingpractice.com/login.php,245,0,0
+1719647154814,245,/logout.php-0,302,Moved Temporarily,Thread Group 1-9,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,245,0,0
+1719647155059,232,/logout.php-1,200,OK,Thread Group 1-9,text,true,,2938,828,10,10,https://performancetestingpractice.com/login.php,232,0,0
+1719647155089,219,/senerio.php,200,OK,Thread Group 1-7,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,219,0,0
+1719647155091,258,/login.php,200,OK,Thread Group 1-5,text,true,,2939,826,10,10,https://performancetestingpractice.com/login.php,258,0,0
+1719647154810,657,/dashboard.php,200,OK,Thread Group 1-6,text,true,,4899,830,10,10,https://performancetestingpractice.com/dashboard.php,657,0,450
+1719647155264,206,/senerio.php,200,OK,Thread Group 1-3,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,206,0,0
+1719647155050,436,/logout.php,200,OK,Thread Group 1-4,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,224,0,0
+1719647155050,224,/logout.php-0,302,Moved Temporarily,Thread Group 1-4,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,224,0,0
+1719647155274,212,/logout.php-1,200,OK,Thread Group 1-4,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,212,0,0
+1719647154957,535,"/login.php, user- 1",200,OK,Thread Group 1-1,text,true,,15516,2031,10,10,https://performancetestingpractice.com/dashboard.php,305,0,0
+1719647154957,305,"/login.php, user- 1-0",302,Moved Temporarily,Thread Group 1-1,text,true,,10617,1104,10,10,https://performancetestingpractice.com/login.php,305,0,0
+1719647155262,230,"/login.php, user- 1-1",200,OK,Thread Group 1-1,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,229,0,0
+1719647155058,450,/logout.php,200,OK,Thread Group 1-8,text,true,,3425,1657,10,10,https://performancetestingpractice.com/login.php,221,0,0
+1719647155058,221,/logout.php-0,302,Moved Temporarily,Thread Group 1-8,text,true,,486,829,10,10,https://performancetestingpractice.com/logout.php,221,0,0
+1719647155279,229,/logout.php-1,200,OK,Thread Group 1-8,text,true,,2939,828,10,10,https://performancetestingpractice.com/login.php,229,0,0
+1719647155294,232,/index.php,200,OK,Thread Group 1-9,text,true,,3682,780,10,10,https://performancetestingpractice.com/index.php,232,0,0
+1719647155072,482,"/login.php, user- 2",200,OK,Thread Group 1-2,text,true,,15508,2029,10,10,https://performancetestingpractice.com/dashboard.php,276,0,0
+1719647155072,276,"/login.php, user- 2-0",302,Moved Temporarily,Thread Group 1-2,text,true,,10609,1102,10,10,https://performancetestingpractice.com/login.php,276,0,0
+1719647155348,206,"/login.php, user- 2-1",200,OK,Thread Group 1-2,text,true,,4899,927,10,10,https://performancetestingpractice.com/dashboard.php,206,0,0
+1719647155468,212,/senerio.php,200,OK,Thread Group 1-6,text,true,,2650,832,10,10,https://performancetestingpractice.com/senerio.php,211,0,0
+1719647155490,210,/index.php,200,OK,Thread Group 1-4,text,true,,3682,780,9,9,https://performancetestingpractice.com/index.php,210,0,0
+1719647155556,202,/dashboard.php,200,OK,Thread Group 1-2,text,true,,4899,830,8,8,https://performancetestingpractice.com/dashboard.php,202,0,0
+1719647155510,251,/index.php,200,OK,Thread Group 1-8,text,true,,3682,780,7,7,https://performancetestingpractice.com/index.php,251,0,0
+1719647155493,272,/dashboard.php,200,OK,Thread Group 1-1,text,true,,4899,830,6,6,https://performancetestingpractice.com/dashboard.php,272,0,0
+1719647155290,479,"/login.php, user- 10",200,OK,Thread Group 1-10,text,true,,15516,2029,5,5,https://performancetestingpractice.com/dashboard.php,254,0,0
+1719647155290,254,"/login.php, user- 10-0",302,Moved Temporarily,Thread Group 1-10,text,true,,10617,1102,5,5,https://performancetestingpractice.com/login.php,254,0,0
+1719647155544,225,"/login.php, user- 10-1",200,OK,Thread Group 1-10,text,true,,4899,927,5,5,https://performancetestingpractice.com/dashboard.php,225,0,0
+1719647155309,466,/logout.php,200,OK,Thread Group 1-7,text,true,,3424,1657,4,4,https://performancetestingpractice.com/login.php,218,0,0
+1719647155309,218,/logout.php-0,302,Moved Temporarily,Thread Group 1-7,text,true,,486,829,4,4,https://performancetestingpractice.com/logout.php,218,0,0
+1719647155527,248,/logout.php-1,200,OK,Thread Group 1-7,text,true,,2938,828,4,4,https://performancetestingpractice.com/login.php,248,0,0
+1719647155527,238,/login.php,200,OK,Thread Group 1-9,text,true,,2937,826,6,6,https://performancetestingpractice.com/login.php,238,0,0
+1719647155351,504,"/login.php, user- 5",200,OK,Thread Group 1-5,text,true,,15516,2033,2,2,https://performancetestingpractice.com/dashboard.php,275,0,0
+1719647155351,275,"/login.php, user- 5-0",302,Moved Temporarily,Thread Group 1-5,text,true,,10617,1106,2,2,https://performancetestingpractice.com/login.php,275,0,0
+1719647155626,229,"/login.php, user- 5-1",200,OK,Thread Group 1-5,text,true,,4899,927,2,2,https://performancetestingpractice.com/dashboard.php,228,0,0
+1719647155470,398,/logout.php,200,OK,Thread Group 1-3,text,true,,3428,1657,1,1,https://performancetestingpractice.com/login.php,194,0,0
+1719647155470,194,/logout.php-0,302,Moved Temporarily,Thread Group 1-3,text,true,,486,829,1,1,https://performancetestingpractice.com/logout.php,194,0,0
+1719647155664,204,/logout.php-1,200,OK,Thread Group 1-3,text,true,,2942,828,1,1,https://performancetestingpractice.com/login.php,204,0,0
